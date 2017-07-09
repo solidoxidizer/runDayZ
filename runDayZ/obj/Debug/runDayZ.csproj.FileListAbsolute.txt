@@ -1,0 +1,10 @@
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Debug\runDayZ.exe.config
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Debug\runDayZ.exe
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Debug\runDayZ.pdb
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Debug\runDayZ.csprojResolveAssemblyReference.cache
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Debug\runDayZ.Form1.resources
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Debug\runDayZ.Properties.Resources.resources
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Debug\runDayZ.csproj.GenerateResource.Cache
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Debug\runDayZ.exe
+c:\users\topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Debug\runDayZ.pdb
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Debug\InputSimulator.xml

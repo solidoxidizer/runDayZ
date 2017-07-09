@@ -1,0 +1,12 @@
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Release\runDayZ.exe.config
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Release\runDayZ.exe
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Release\runDayZ.pdb
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Release\runDayZ.Form1.resources
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Release\runDayZ.Properties.Resources.resources
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Release\runDayZ.csproj.GenerateResource.Cache
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Release\runDayZ.exe
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Release\runDayZ.pdb
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Release\InputSimulator.dll
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Release\InputSimulator.xml
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\obj\Release\runDayZ.csprojResolveAssemblyReference.cache
+C:\Users\Topi\documents\visual studio 2017\Projects\runDayZ\runDayZ\bin\Release\InputManager.dll

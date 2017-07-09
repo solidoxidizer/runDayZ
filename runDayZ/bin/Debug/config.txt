@@ -1,0 +1,23 @@
+hotkey=0x73
+delay=100
+
+KEYCODE EXAMPLES (vkCode/Virtual-Key Codes)
+https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx
+
+PAGE UP = 0x21
+PAGE DOWN = 0x22
+HOME KEY = 0x24
+UP ARROW = 0x26
+DOWN ARROW = 0x28
+INSERT = 0x2D
+DELETE = 0x2E
+
+0-9 Keys = 0x30 - 0x39
+Numpad 0-9 = 0x60 -0x69
+F1 - F10 = 0x70 - 0x79
+
+C = 0x43
+D = 0x44
+E = 0x45
+F = 0x46
+R = 0x52
